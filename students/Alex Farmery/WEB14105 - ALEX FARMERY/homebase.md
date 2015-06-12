@@ -16,3 +16,6 @@ within 'skinmusic' there are all files for corresponding website. within styles 
 You can see my commenting on it also (because i was kind of teaching myself as i was going along).
 
 'recipe-boot' can be pulled into a chrome window and index.html will display my recipe webpage. The blog entires for this are within 'matteo posts.pdf'
+
+here is my link to vimeo presentations 
+https://vimeo.com/user41022607
